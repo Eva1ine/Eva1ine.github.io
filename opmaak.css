@@ -1,25 +1,4 @@
 /* This is a CSS comment */
-
-/* Select an HTML element with the class "button" */
-.button {
-  /* Set the background color to blue */
-  background-color: blue;
-  /* Set the text color to white */
-  color: white;
-  /* Add some padding around the text */
-  padding: 10px 20px;
-  /* Add a border with rounded corners */
-  border-radius: 5px;
-  /* Make the text bold */
-  font-weight: bold;
-  /* Center the text horizontally */
-  text-align: center;
-  /* Add a hover effect */
-  transition: background-color 0.3s ease;
-}
-
-/* Apply styles when hovering over the button */
-.button:hover {
-  /* Change the background color to dark blue */
-  background-color: darkblue;
+body{
+  background-color: aqua;
 }
