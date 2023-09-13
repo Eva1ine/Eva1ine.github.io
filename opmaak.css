@@ -1,28 +1,11 @@
-<!DOCTYPE html>
-
-<head>
-<style>
-h1 {
-  background-color: green;
-}
-
-div {
-  background-color: lightblue;
-}
-
-p {
-  background-color: yellow;
-}
-</style>
-</head>
-<body>
-
-<h1></h1>
-<div>
-
-</div>
-
-</body>
+#ul1 {
+  border-style: inset;
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: #483D8B;
+    }
 
 
 
