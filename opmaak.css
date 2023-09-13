@@ -5,7 +5,18 @@
       padding: 0;
       overflow: hidden;
       background-color: #483D8B;
+    } 
+
+   li {float: left;} /zorgt ervoor dat het menu aaan de linker kant begint/
+    
+    li a {
+      display: block; /* zorgt voor menu in blok vorm*/
+      color: white;
+      text-align: center;
+      padding: 18px 18px;
+      text-decoration: none;
     }
+
 
 
 
