@@ -17,22 +17,11 @@
       text-decoration: none;
     }
 
-   /* Stijl voor de tekstcontainer */
-   .text-container {
-    margin-bottom: 20px; /* Ruimte onder de tekst */
-    padding: 10px; /* Ruimte binnen de container */
-    border: 1px solid #ccc; /* Rand rondom de container */
+   .mooie-lijst li {
+    margin-bottom: 10px; /* Voeg ruimte toe tussen elk lijstitem */
+    font-size: 16px; /* Pas lettergrootte aan zoals gewenst */
+    line-height: 1.5; /* Pas regelhoogte aan voor leesbaarheid */
   }
-
-    /* Stijl voor de kop */
-    h1 {
-      text-align: center; /* Tekst centreren */
-    }
-
-    /* Stijl voor alinea's */
-    p {
-      line-height: 1.5; /* Hoogte van regels aanpassen */
-    }
 
 
 
