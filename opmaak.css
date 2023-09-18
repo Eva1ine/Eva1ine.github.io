@@ -15,10 +15,20 @@
       text-align: center;
       padding: 18px 18px;
       text-decoration: none;
-      margin-bottom: 10px; /* Voeg ruimte toe tussen elk lijstitem */
-      font-size: 16px; /* Pas lettergrootte aan zoals gewenst */
-      line-height: 1.5; /* Pas regelhoogte aan voor leesbaarheid */
     } 
+#ul1 {
+  position: relative; /* Hiermee wordt het element als relatief gepositioneerd ingesteld */
+}
+
+#ul1::after {
+  content: ""; /* Hiermee wordt een pseudo-element gemaakt om de tekst te positioneren */
+  position: absolute; /* Hiermee wordt het pseudo-element absoluut gepositioneerd binnen #ul1 */
+  top: 50%; /* Hiermee wordt de bovenrand van het pseudo-element in het midden van #ul1 geplaatst */
+  left: 50%; /* Hiermee wordt de linker rand van het pseudo-element in het midden van #ul1 geplaatst */
+  transform: translate(-50%, -50%); /* Hiermee wordt het pseudo-element naar het midden verschoven */
+  /* Je kunt hier andere eigenschappen zoals tekststijl, kleur en lettergrootte toevoegen */
+}
+
   
 
 
