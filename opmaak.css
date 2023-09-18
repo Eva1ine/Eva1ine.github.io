@@ -16,11 +16,24 @@
       padding: 18px 18px;
       text-decoration: none;
     }
-.tekst {
-  position: relative;
-  top: 20px;
-  left: 30px;
-}
+
+   /* Stijl voor de tekstcontainer */
+   .text-container {
+    margin-bottom: 20px; /* Ruimte onder de tekst */
+    padding: 10px; /* Ruimte binnen de container */
+    border: 1px solid #ccc; /* Rand rondom de container */
+  }
+
+    /* Stijl voor de kop */
+    h1 {
+      text-align: center; /* Tekst centreren */
+    }
+
+    /* Stijl voor alinea's */
+    p {
+      line-height: 1.5; /* Hoogte van regels aanpassen */
+    }
+
 
 
 
