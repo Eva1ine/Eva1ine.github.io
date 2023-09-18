@@ -14,22 +14,25 @@
       color: white;
       text-align: center;
       padding: 18px 18px;
-      text-decoration: none;
     } 
-#ul1 {
-  position: relative; /* Hiermee wordt het element als relatief gepositioneerd ingesteld */
-}
 
-#ul1::after {
-  content: ""; /* Hiermee wordt een pseudo-element gemaakt om de tekst te positioneren */
-  position: absolute; /* Hiermee wordt het pseudo-element absoluut gepositioneerd binnen #ul1 */
-  top: 50%; /* Hiermee wordt de bovenrand van het pseudo-element in het midden van #ul1 geplaatst */
-  left: 50%; /* Hiermee wordt de linker rand van het pseudo-element in het midden van #ul1 geplaatst */
-  transform: translate(-50%, -50%); /* Hiermee wordt het pseudo-element naar het midden verschoven */
-  /* Je kunt hier andere eigenschappen zoals tekststijl, kleur en lettergrootte toevoegen */
-}
+    /achtergrond plaatje voor de homepage/
+    
+    #tekst1{
+      font-family: Lucida, Monospace;
+      color: White;
+      border-radius: 25px; /maakt de afbeelding rond/
+      background: #483D8B;
+      border-style: inset; /De border om de tekst heen/
+      width: 500px; /aanpassingen voor de breedte/
+      padding-bottom: 100px;
+      padding-top: 100px;
+      padding-left: 50px;
+      padding-right: 40px;
+      margin: 100px; /aanpassingen voor de grootte/
+    {
+    
 
-  
 
 
 
