@@ -16,7 +16,12 @@
       padding: 18px 18px;
       text-decoration: none;
     }
-
+   
+    h1{
+      font-family: Lucida, Monospace;
+      color: White;
+      font-size: 20px; /grootte van de tekst/
+    }
 
 
 
