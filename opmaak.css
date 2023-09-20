@@ -23,7 +23,7 @@
 
  #tekst1{
     font-family: Lucida, Monospace;
-    color: White;
+    color: #000080;
     border-radius: 25px; /maakt de afbeelding rond/
     background: #483D8B;
     border-style: inset; /De border om de tekst heen/
