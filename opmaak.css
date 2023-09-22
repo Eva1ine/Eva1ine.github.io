@@ -4,7 +4,7 @@
       margin: 0;
       padding: 0;
       overflow: hidden;
-      background: 
+      background-color: #00080;
 }
 
    li {float: left;} /* zorgt ervoor dat het menu aaan de linker kant begint*/
