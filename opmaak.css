@@ -17,6 +17,8 @@
       text-decoration: none;
     } 
 
+    
+
 #body1{background-image:url("sreenshot_color_nl.jpg");}
 
 
@@ -41,7 +43,10 @@
       font-size: 20px; /grootte van de tekst/
     }
 
-
+.home
+ {
+  background-color: blueviolet;
+ }
 
     
     
