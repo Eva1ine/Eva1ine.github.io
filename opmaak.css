@@ -52,7 +52,7 @@
   top: 0;
   left: 0;
   right: 0;
-  height: 50%; /* De helft van het scherm */
+  height: 100%; /* De helft van het scherm */
   overflow: hidden; /* Om te voorkomen dat de afbeelding buiten de containerdiv gaat */
   width: 100%; /* De afbeelding schaalt naar de breedte van de container */
   height: auto; /* Behoudt de juiste aspectverhouding van de afbeelding */
