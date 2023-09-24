@@ -8,6 +8,11 @@
       font-family: Arial, sans-serif ;
 }
 
+.blokje:hover {
+  background-color: red; /* Stel hier de kleur in die je wilt wanneer de muis eroverheen gaat */
+}
+
+
    li {float: left;} /* zorgt ervoor dat het menu aaan de linker kant begint*/
     
     li a {
