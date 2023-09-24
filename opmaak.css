@@ -45,9 +45,7 @@
 
 .home
  {
-  background-color:rgba(32, 165, 242, 0.996); }
-  /* Stijl voor de bovenste helft van de afbeelding */
-.header {
+  background-color:rgba(32, 165, 242, 0.996); 
   background-image: url('seguridad-informatica-scaled.jpeg'); /* Vervang 'achtergrond.jpg' door het pad naar je eigen afbeelding *
   background-size: cover;
   background-position: center top; /* Hiermee wordt de afbeelding verticaal gecentreerd aan de bovenkant */
