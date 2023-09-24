@@ -47,13 +47,17 @@
 
 .home
  {
-  background-color:rgba(32, 165, 242, 0.996); 
-  background-image: url('seguridad-informatica-scaled.jpeg'); 
-  background-size: cover;
-  background-position: center top;
-  height: 50vh; 
+  background-color:rgba(32, 165, 242, 0.996); }
+ 
+  .header {
+    background-image: url('seguridad-informatica-scaled.jpeg');
+    background-size: cover;
+    background-position: top center;
+    background-attachment: fixed;
+  }
+ 
 
-}
+
 
   
   
