@@ -50,14 +50,10 @@
   background-image: url('seguridad-informatica-scaled.jpeg'); /* Vervang 'achtergrond.jpg' door het pad naar je eigen afbeelding */
   position: absolute;
   top: 0;
-  left: 0;
-  right: 0;
-  height: 100%; /* De helft van het scherm */
-  overflow: hidden; /* Om te voorkomen dat de afbeelding buiten de containerdiv gaat */
-  width: 100%; /* De afbeelding schaalt naar de breedte van de container */
-  height: auto; /* Behoudt de juiste aspectverhouding van de afbeelding */
-
-}
+  left: 50%;
+  transform: translateX(-50%);
+  
+  }
   
 
     
