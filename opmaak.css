@@ -16,9 +16,14 @@
       text-align: center;
       padding: 18px 18px;
       text-decoration: none;
-    .kleur-verandering:hover 
-    background-color: red; /* Stijl wanneer de muis eroverheen gaat */
     }
+
+  { 
+  
+    /* Stijl wanneer de muis eroverheen gaat */
+  .kleur-verandering:hover {
+      background-color: rgb(56, 163, 240);
+  }
     
 #body1{background-image:url("sreenshot_color_nl.jpg");}
 
@@ -49,7 +54,7 @@
   background-color:rgba(32, 165, 242, 0.996); 
   background-image: url('seguridad-informatica-scaled.jpeg'); /* Vervang 'achtergrond.jpg' door het pad naar je eigen afbeelding */
   position: absolute;
-  transform: translateX(-50%);
+  
   
   }
   
