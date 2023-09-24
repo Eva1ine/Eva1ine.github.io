@@ -5,6 +5,7 @@
       padding: 0;
       overflow: hidden;
       background-color: rgb(12, 100, 159);
+      font-size: Arial, sans-serif ;
 }
 
    li {float: left;} /* zorgt ervoor dat het menu aaan de linker kant begint*/
