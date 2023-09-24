@@ -46,6 +46,10 @@
 .home
  {
   background-color:rgba(32, 165, 242, 0.996); 
+  background-image: url('seguridad-informatica-scaled.jpeg'); /* Vervang 'achtergrond.jpg' door het pad naar je eigen afbeelding */
+  background-size: cover;
+  background-attachment: fixed;
+  font-family: Arial, sans-serif;
  }
 
     
