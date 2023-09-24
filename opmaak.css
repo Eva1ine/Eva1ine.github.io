@@ -48,10 +48,11 @@
  {
   background-color:rgba(32, 165, 242, 0.996); 
   background-image: url('seguridad-informatica-scaled.jpeg'); /* Vervang 'achtergrond.jpg' door het pad naar je eigen afbeelding */
-  background-size:50% 50%;
-  background-attachment: fixed;
-  font-family: Arial, sans-serif;
- }
+  background-size: cover; /* Dit past de afbeelding aan de grootte van het venster aan */
+  background-position: top center; /* Plaatst de afbeelding bovenaan het venster en gecentreerd */
+  
+  }
+  
 
     
     
