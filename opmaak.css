@@ -46,10 +46,11 @@
 .home
  {
   background-color:rgba(32, 165, 242, 0.996); 
-  background-image: url('seguridad-informatica-scaled.jpeg'); /* Vervang 'achtergrond.jpg' door het pad naar je eigen afbeelding *
+  background-image: url('seguridad-informatica-scaled.jpeg'); 
   background-size: cover;
-  background-position: center top; /* Hiermee wordt de afbeelding verticaal gecentreerd aan de bovenkant */
-  height: 50vh; /* 50% van de viewporthoogte, pas dit aan naar wens */
+  background-position: center top;
+  height: 50vh; 
+
 }
 
   
