@@ -18,12 +18,6 @@
       text-decoration: none;
     }
 
-  { 
-  
-    /* Stijl wanneer de muis eroverheen gaat */
-  .kleur-verandering:hover {
-      background-color: rgb(56, 163, 240);
-  }
     
 #body1{background-image:url("sreenshot_color_nl.jpg");}
 
@@ -51,12 +45,18 @@
 
 .home
  {
-  background-color:rgba(32, 165, 242, 0.996); 
-  background-image: url('seguridad-informatica-scaled.jpeg'); /* Vervang 'achtergrond.jpg' door het pad naar je eigen afbeelding */
-  position: absolute;
+  background-color:rgba(32, 165, 242, 0.996); }
+  /* Stijl voor de bovenste helft van de afbeelding */
+.header {
+  background-image: url('seguridad-informatica-scaled.jpeg'); /* Vervang 'achtergrond.jpg' door het pad naar je eigen afbeelding *
+  background-size: cover;
+  background-position: center top; /* Hiermee wordt de afbeelding verticaal gecentreerd aan de bovenkant */
+  height: 50vh; /* 50% van de viewporthoogte, pas dit aan naar wens */
+}
+
   
   
-  }
+  
   
 
     
