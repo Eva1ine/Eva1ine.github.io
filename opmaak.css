@@ -6,11 +6,15 @@
       overflow: hidden;
       background-color: rgb(12, 100, 159);
       font-family: Arial, sans-serif ;
+      
 }
 
 .blokje:hover {
-  background-color: red; /* Stel hier de kleur in die je wilt wanneer de muis eroverheen gaat */
+  background-color: red; /* Verander naar rood wanneer de muis eroverheen gaat */
 }
+
+
+
 
 
    li {float: left;} /* zorgt ervoor dat het menu aaan de linker kant begint*/
@@ -21,6 +25,7 @@
       text-align: center;
       padding: 18px 18px;
       text-decoration: none;
+  
     }
 
     
