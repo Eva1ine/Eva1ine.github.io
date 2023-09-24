@@ -48,10 +48,16 @@
  {
   background-color:rgba(32, 165, 242, 0.996); 
   background-image: url('seguridad-informatica-scaled.jpeg'); /* Vervang 'achtergrond.jpg' door het pad naar je eigen afbeelding */
-  background-size: cover; /* Dit past de afbeelding aan de grootte van het venster aan */
-  background-position: top center; /* Plaatst de afbeelding bovenaan het venster en gecentreerd */
-  
-  }
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 50%; /* De helft van het scherm */
+  overflow: hidden; /* Om te voorkomen dat de afbeelding buiten de containerdiv gaat */
+  width: 100%; /* De afbeelding schaalt naar de breedte van de container */
+  height: auto; /* Behoudt de juiste aspectverhouding van de afbeelding */
+
+}
   
 
     
