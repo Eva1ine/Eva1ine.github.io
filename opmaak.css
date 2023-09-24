@@ -25,7 +25,7 @@
 
  #tekst1{
     font-family: Lucida, Monospace;
-    color: #000080;
+    color: #000;
     border-radius: 25px; /maakt de afbeelding rond/
     background: #483D8B;
     border-style: inset; /De border om de tekst heen/
@@ -39,7 +39,7 @@
    
     h1{
       font-family: Lucida, Monospace;
-      color: #000080;
+      color: #000;
       font-size: 20px; /grootte van de tekst/
     }
 
