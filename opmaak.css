@@ -45,6 +45,12 @@
       font-size: 20px; /grootte van de tekst/
     }
 
+    h2{
+      font-family: Arial, sans-serif;
+      color: #000;
+      font-size: 16px; / grootte van de tweede kop/
+    }
+
 .home
  {
   background-color:rgba(32, 165, 242, 0.996); }
