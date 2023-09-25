@@ -51,6 +51,10 @@
       font-size: 18px; / grootte van de tweede kop/
     }
 
+    .image-container {
+  display: flex;
+}
+
 .home
  {
   background-color:rgba(32, 165, 242, 0.996); }
