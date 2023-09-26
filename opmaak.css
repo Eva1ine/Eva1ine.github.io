@@ -22,10 +22,21 @@
       transition: background-color 0.3s; /* Voeg een overgangseffect toe voor een vloeiende overgang */
   
     }
-
-hover {
-  background-color: #f5e72b; /* Nieuwe achtergrondkleur bij hover */
+/* styles.css */
+#ul1 {
+  list-style: none; /* Verwijder de standaard lijstmarkeringen */
+  display: flex; /* Zorgt ervoor dat de list items naast elkaar worden weergegeven */
 }
+
+#ul1 li {
+  flex: 1; /* Verdeelt de beschikbare ruimte gelijkmatig tussen de list items */
+}
+
+#ul1 img {
+  max-width: 100%; /* Zorgt ervoor dat de afbeeldingen zich aanpassen aan de beschikbare ruimte */
+  height: auto; /* Behoudt de oorspronkelijke verhoudingen van de afbeeldingen */
+}
+
 
 
  #tekst1{
