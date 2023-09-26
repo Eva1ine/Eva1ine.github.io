@@ -60,6 +60,13 @@
   color: rgb(0, 0, 0); /* Tekstkleur aanpassen voor contrast */
 }
 
+footer {
+  background-color: #e8a362;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+
   
   
  
