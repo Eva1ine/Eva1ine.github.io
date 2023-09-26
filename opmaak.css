@@ -22,21 +22,6 @@
       transition: background-color 0.3s; /* Voeg een overgangseffect toe voor een vloeiende overgang */
   
     }
-/* styles.css */
-#ul1 {
-  list-style: none; /* Verwijder de standaard lijstmarkeringen */
-  display: flex; /* Zorgt ervoor dat de list items naast elkaar worden weergegeven */
-}
-
-#ul1 li {
-  flex: 1; /* Verdeelt de beschikbare ruimte gelijkmatig tussen de list items */
-}
-
-#ul1 img {
-  max-width: 100%; /* Zorgt ervoor dat de afbeeldingen zich aanpassen aan de beschikbare ruimte */
-  height: auto; /* Behoudt de oorspronkelijke verhoudingen van de afbeeldingen */
-}
-
 
 
  #tekst1{
@@ -71,6 +56,9 @@
  {
   background-color:rgba(32, 165, 242, 0.996); } /zorgt voor een achtergrond kleur/
   background-image: url('seguridad-informatica-scaled.jpeg');
+  background-blur: blur(5px); /* Vervaging toepassen op de achtergrondafbeelding */
+  padding: 20px; /* Voeg wat ruimte toe rond de tekst */
+  color: white; /* Tekstkleur aanpassen voor contrast */
   
  }
  
