@@ -55,7 +55,7 @@
 .home
  {
   background-color:rgba(32, 165, 242, 0.996); } /zorgt voor een achtergrond kleur/
-  background-image: url('seguridad-informatica-scaled.jpeg');
+  background-image:url('seguridad-informatica-scaled.jpeg');
   background-blur: blur(5px); /* Vervaging toepassen op de achtergrondafbeelding */
   padding: 20px; /* Voeg wat ruimte toe rond de tekst */
   color: white; /* Tekstkleur aanpassen voor contrast */
