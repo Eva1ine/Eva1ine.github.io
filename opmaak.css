@@ -51,13 +51,11 @@
       font-size: 18px; / grootte van de tweede kop/
     }
 
-    .image-container {
-  display: flex;
-}
+  
 
 .home
  {
-  background-color:rgba(32, 165, 242, 0.996); }
+  background-color:rgba(32, 165, 242, 0.996); } /zorgt voor een achtergrond kleur/
   background-image: url('seguridad-informatica-scaled.jpeg');
   background-size: cover;
   background-position: top center;
