@@ -5,7 +5,9 @@
       padding: 0;
       overflow: hidden;
       background-color: rgb(12, 100, 159);
-      font-family: Arial, sans-serif ;
+      font-family: Arial, sans-serif;
+      transition: background-color 0.3s; /* Overgangseffect voor de achtergrondkleur */
+
       
 }
 
@@ -17,9 +19,13 @@
       text-align: center;
       padding: 18px 18px;
       text-decoration: none;
+      transition: background-color 0.3s; /* Voeg een overgangseffect toe voor een vloeiende overgang */
   
     }
 
+hover {
+  background-color: #f5e72b; /* Nieuwe achtergrondkleur bij hover */
+}
 
 
  #tekst1{
