@@ -20,9 +20,6 @@
   
     }
 
-    
-#body1{background-image:url("sreenshot_color_nl.jpg");}
-
 
 
  #tekst1{
@@ -57,9 +54,7 @@
  {
   background-color:rgba(32, 165, 242, 0.996); } /zorgt voor een achtergrond kleur/
   background-image: url('seguridad-informatica-scaled.jpeg');
-  background-size: cover;
-  background-position: top center;
-  background-attachment: fixed;
+  
  }
  
  
