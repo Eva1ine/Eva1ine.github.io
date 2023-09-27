@@ -58,8 +58,7 @@
   background-attachment: fixed; /* Hiermee wordt de achtergrondafbeelding vastgezet, zodat deze niet scrollt */
 }
 
-.footer
-       {
+.footer {
 background-color: #f6b3dc;
 color:rgba(32, 165, 242, 0.996);
 text-align: center;
