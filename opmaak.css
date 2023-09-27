@@ -55,8 +55,6 @@
         background-size: cover;
         background-position: center;
         background-attachment: fixed; /* Hiermee wordt de achtergrondafbeelding vastgezet, zodat deze niet scrollt */
-        margin: 0; /* Verwijder standaardmarges om de afbeelding te maximaliseren */
-        padding: 0; /* Verwijder standaardvullingen om de afbeelding te maximaliseren */
       }
 
 
