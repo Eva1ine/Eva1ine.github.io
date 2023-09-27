@@ -68,6 +68,8 @@
   color:rgba(32, 165, 242, 0.996);
   text-align: center;
   padding: 0;
+  position: absolute;
+  bottom: 0;
 }
 
 
