@@ -58,12 +58,13 @@
   background-attachment: fixed; /* Hiermee wordt de achtergrondafbeelding vastgezet, zodat deze niet scrollt */
 }
 
-.footer {
- background-color: #f6b3dc;
-  color:rgba(32, 165, 242, 0.996);
-  text-align: center;
-  padding: 0;
-  bottom: 0;
+.footer
+       {
+background-color: #f6b3dc;
+color:rgba(32, 165, 242, 0.996);
+text-align: center;
+padding: 0;
+bottom: 0;
 }
 
 .menu li:hover {
