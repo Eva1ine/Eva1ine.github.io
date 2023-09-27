@@ -69,6 +69,12 @@
   color: #000000; /* Tekstkleur bij hover */
 }
 
+img {
+  width: 50%;
+  height: auto; /* behoud de oorspronkelijke hoogte-breedteverhouding */
+}
+
+
 
   
   
