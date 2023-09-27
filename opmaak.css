@@ -53,11 +53,8 @@
   
 
 .home
- {
-  background-image: url('seguridad-informatica-scaled.jpeg'); /* Voeg hier je achtergrondafbeelding toe */
-  background-size: cover;
-  filter: blur(10px); /* Vervaging toepassen op de achtergrondafbeelding */
-  color: rgb(0, 0, 0); /* Tekstkleur aanpassen voor contrast */
+ { 
+  background-color:rgba(32, 165, 242, 0.996);
 }
 
 .footer {
