@@ -54,11 +54,11 @@
 
 .home
  { 
-  background-color:rgba(32, 165, 242, 0.996);
+  background-color:rgba(32, 165, 242, 0.996); / achtergrond kleur homepage/
 }
 
 .footer {
-  background-color: #e8a362;
+  background-color: #e8a362; 
   color: #fff;
   text-align: center;
   padding: 20px;
