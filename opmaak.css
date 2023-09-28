@@ -63,7 +63,7 @@
   background-color: #483D8B;
   width: 100%;
   text-align: center; /tekst begint vanuit het midden/
-  bottom: 0;
+  bottom: 100%;
 }
 
 .menu li:hover {
