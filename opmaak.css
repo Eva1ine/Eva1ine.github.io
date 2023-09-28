@@ -58,7 +58,7 @@
   background-attachment: fixed; /* Hiermee wordt de achtergrondafbeelding vastgezet, zodat deze niet scrollt */
 }
 
-footer{
+.footer{
   color: White;
   background-color: #483D8B;
   float: left;
