@@ -66,6 +66,7 @@
   bottom: 100%;
   grid-row: 2;
   flex: none;
+  margin-top: auto;
 }
 
 .menu li:hover {
