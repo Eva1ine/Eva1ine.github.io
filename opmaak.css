@@ -63,8 +63,6 @@
   background-color:rgb(12, 100, 159);
   width: 100%;
   text-align: center; /tekst begint vanuit het midden/
-  bottom: 100%;
-  grid-row: 2;
   flex: none;
   margin-top: auto;
 }
