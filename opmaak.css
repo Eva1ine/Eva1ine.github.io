@@ -62,7 +62,8 @@
   color: White;
   background-color:rgb(12, 100, 159);
   text-align: center; /tekst begint vanuit het midden/
-  margin-top: auto;
+  display: flex;
+  flex-direction: column;
 }
 
 .menu li:hover {
