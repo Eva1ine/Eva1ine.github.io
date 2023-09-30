@@ -56,16 +56,6 @@
   background-size: cover;
   background-position: center;
   background-attachment: fixed; /* Hiermee wordt de achtergrondafbeelding vastgezet, zodat deze niet scrollt */
-  font-family: Arial, sans-serif;
-  color: #000;
-  border-radius: 25px; /maakt de afbeelding rond/
-  background: #483D8B;
-  border-style: inset; /De border om de tekst heen/
-  width: 500px; /aanpassingen voor de breedte/
-  padding-bottom: 100px;
-  padding-top: 100px;
-  padding-left: 50px;
-  margin: 100px; /aanpassingen voor de grootte/
 }
 
 .footer{
@@ -86,8 +76,19 @@ img {
   height: auto; /* behoud de oorspronkelijke hoogte-breedteverhouding */
 }
 
-
-
+.background
+{
+font-family: Arial, sans-serif;
+color: #000;
+border-radius: 25px; /maakt de afbeelding rond/
+background: #483D8B;
+border-style: inset; /De border om de tekst heen/
+width: 500px; /aanpassingen voor de breedte/
+padding-bottom: 100px;
+padding-top: 100px;
+padding-left: 50px;
+margin: 100px; /aanpassingen voor de grootte/
+}
   
   
  
