@@ -170,35 +170,3 @@ margin: 100px; /aanpassingen voor de grootte/
 }
 .top-level-menu a:hover { color: #000000; }
  
-<ul class="top-level-menu">
-    <li><a href="#">Fysieke laag</a></li>
-    <li>
-        <a href="#">Offices</a>
-        <ul class="second-level-menu">
-            <li><a href="#">Toepassingenlaag</a></li>
-                <ul class="third-level-menu">
-                    <li><a href="#">Logische laag</a></li>
-                </ul>
-            
- 
-
-
-
-  
-  
-  
-  
-
-    
-    
-    
-
-
-
-
-
-
-
-    
-
-
