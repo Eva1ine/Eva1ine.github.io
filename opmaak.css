@@ -73,7 +73,7 @@
 
 img {
   width: 50%;
-  height: 40px; /* behoud de oorspronkelijke hoogte-breedteverhouding */
+  height: 100px; /* behoud de oorspronkelijke hoogte-breedteverhouding */
 }
 
 #tekst2
