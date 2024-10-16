@@ -110,7 +110,10 @@ margin: 100px; /aanpassingen voor de grootte/
     height: 30px;
     background: rgb(12, 100, 159);
 }
-.second-level-menu > li:hover { background:  #c909f9; }
+.second-level-menu > li:hover {
+background-color: #c909f9; /* Achtergrondkleur bij hover */
+  color: #ffffff; /* Tekstkleur bij hover */
+  }
 
 .top-level-menu
 {
@@ -127,7 +130,10 @@ margin: 100px; /aanpassingen voor de grootte/
     width: 150px;
     background: rgb(12, 100, 159);}
 
-.top-level-menu > li:hover { background:  #c909f9; }
+.top-level-menu > li:hover {
+background-color: #c909f9; /* Achtergrondkleur bij hover */
+  color: #ffffff; /* Tekstkleur bij hover */
+    }
 
 .top-level-menu li:hover > ul
 {
