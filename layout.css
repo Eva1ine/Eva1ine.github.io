@@ -15,7 +15,7 @@
 {
     position: relative;
     height: 30px;
-    background:rgb(12, 100, 159);
+    background: #999999;
 }
 .second-level-menu > li:hover { background: #CCCCCC; }
 
@@ -32,7 +32,7 @@
     float: left;
     height: 30px;
     width: 150px;
-    background:rgb(12, 100, 159);
+    background: #999999;
 }
 .top-level-menu > li:hover { background: #CCCCCC; }
 
