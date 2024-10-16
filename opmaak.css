@@ -131,7 +131,7 @@ margin: 100px; /aanpassingen voor de grootte/
     background: rgb(12, 100, 159);}
 
 .top-level-menu > li:hover {
-background-color: #c909f9; /* Achtergrondkleur bij hover */
+ /* Achtergrondkleur bij hover */
   color: #ffffff; /* Tekstkleur bij hover */
     }
 
