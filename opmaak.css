@@ -143,7 +143,7 @@ margin: 100px; /aanpassingen voor de grootte/
     font-family:  Arial, sans-serif;
     color: #FFFFFF;
     text-decoration: none;
-    padding:18px 18px ;
+    padding:0 0 0 10px ;
 
     /* Make the link cover the entire list item-container */
     display: block;
