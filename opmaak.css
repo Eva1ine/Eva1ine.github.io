@@ -140,7 +140,7 @@ margin: 100px; /aanpassingen voor de grootte/
 
 .top-level-menu a /* Apply to all links inside the multi-level menu */
 {
-    font: bold 14px Arial, Helvetica, sans-serif;
+    font:  Arial, sans-serif;
     color: #FFFFFF;
     text-decoration: none;
     padding: 0 0 0 10px;
