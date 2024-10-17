@@ -132,7 +132,7 @@ background-color: #c909f9;/* Achtergrondkleur bij hover */
 
 .top-level-menu > li:hover {
  background-color: #c909f9;/* Achtergrondkleur bij hover */
-  color: #ffffff; /* Tekstkleur bij hover */
+  text-decoration-color: #ffffff; /* Tekstkleur bij hover */
     }
 
 .top-level-menu li:hover > ul
