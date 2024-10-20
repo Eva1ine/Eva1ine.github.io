@@ -1,6 +1,8 @@
 
-.second-level-menu
+#ul2
 {
+.second-level-menu
+
     position: absolute;
     top: 30px;
     left: 0;
