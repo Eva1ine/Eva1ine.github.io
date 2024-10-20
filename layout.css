@@ -1,9 +1,7 @@
 
-#ul2
+ .second-level-menu
 {
-.second-level-menu
-
-    position: absolute;
+   position: absolute;
     top: 30px;
     left: 0;
     width: 150px;
@@ -11,8 +9,8 @@
     padding: 0;
     margin: 0;
     display: none;
-}
 
+}
 .second-level-menu > li
 {
     position: relative;
