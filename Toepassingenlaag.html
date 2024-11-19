@@ -19,14 +19,33 @@
     </ul>
     <div id='tekst1'><!--stijl van de tekst-->
 
-      <h1>Uitleg toepassingslaag</h1>
-      <p>De toepassingslaag in netwerken binnen computerarchitectuur is de hoogste laag in het OSI-model en vormt eigenlijk een tussenstation tussen de eindgebruikers en de onderliggende netwerken. Deze laag is verantwoordelijk voor het functioneren met softwaretoepassingen en het verloop van de communicatie tussen netwerken.</p>
-      <h2>Wat behoort tot de toepassingslaag</h2>
-<p>De toepassingslaag omvat softwaretoepassingen die netwerkcommunicatie vereisen, zoals webbrowsers. Deze applicaties gebruiken netwerken om gegevens te verzenden en te ontvangen. Toepassingen maken gebruik van verschillende protocollen, zoals HTTP (voor webverkeer), SMTP (voor e-mail) en FTP (voor bestandsoverdracht). Elk protocol bepaalt specifieke regels voor hoe gegevens worden verzonden en ontvangen. De toepassingslaag zorgt ervoor dat gegevens op een begrijpelijke manier worden getoond. Dit gaat om activiteiten, zoals codering, compressie en conversie van gegevens formaten (bijvoorbeeld van tekst naar HTML). Deze laag kan ook verantwoordelijk zijn voor het beheren van sessies tussen applicaties, inclusief de beveiliging, zodat gebruikers veilig toegang hebben tot netwerkfuncties. De toepassingslaag zorgt ervoor dat gebruikers eenvoudig netwerk middelen kunnen gebruiken zonder dat ze zich met de onderliggende en lastige technologie hoeven bezig te houden. De toepassingslaag zorgt eigenlijk voor de brug tussen de eindgebruikers en de netwerkfuncties.</p>
-<p>Apps communiceren vaak via deze netwerkprotocollen die deel uitmaken van de logische laag. Bijvoorbeeld, een webapplicatie maakt gebruik van HTTP/HTTPS om gegevens tussen de client en de server te verzenden. Api’s functioneren hier als een schakel tussen de 2 systemen. Als een app een api oproep, wordt deze verpakt in een HTTP. Door API's kunnen apps eenvoudig nieuwe functionaliteiten en integraties met andere systemen implementeren zonder dat de hele applicatie opnieuw hoeft te worden gebouwd. API's kunnen ook gegevensoverdrachtstypen definiëren (zoals JSON of XML) die worden gebruikt om gegevens op een gestructureerde manier te verzenden. Dit is essentieel voor de uitwisseling van informatie tussen apps en services.</p>
-   
+    <h1>Toepassingenlaag</h1>
+    <p>
+      De toepassingslaag van een telefoon is het niveau waarin gebruikers direct interactie hebben met softwaretoepassingen. Deze laag vormt de interface tussen de gebruiker en de onderliggende hardware en softwarefuncties van het apparaat.
+      De toepassingslaag is de bovenste laag in de softwarearchitectuur van een telefoon. Het zorgt voor het bieden van functies die direct relevant zijn voor de eindgebruiker, zoals het openen van een e-mailapp, het browsen op internet, of het versturen van berichten.</p>
+    <p> Apps</p>
+    <P>Een app (applicatie) is een programma dat ontworpen is om specifieke taken uit te voeren in de toepassingslaag:
 
-        <footer class="footer"><!--zorgt voor footer-->
+      Apps bieden eigenlijk een hulpfunctie waarmee gebruikers gemakkelijk functies kunnen uitvoeren.
+      Denk aan knoppen, scrollmenu’s en animaties waarmee de gebruiker de telefoon bedient. Apps zoals WhatsApp, Instagram, Google Maps, en de ingebouwde camera behoren allemaal tot deze laag.
+      Apps op de toepassingslaag sturen instructies door naar het besturingssysteem en de hardware via lagere lagen.
+      Bijvoorbeeld, als je in de Camera-app een foto maakt, stuurt de app een opdracht naar de camera-hardware.</P>
+<p>Api's</p>
+<p>en API is een verzameling regels en protocollen die het mogelijk maken dat softwaretoepassingen met elkaar of met de hardware communiceren. In de toepassingslaag speelt een API een beangrijke rol.
+  API’s geven apps toegang tot de hardware (bijvoorbeeld de camera, GPS, of microfoon). Een app als Google Maps gebruikt de GPS-API van het besturingssysteem om een bepaalde locatie te bepalen.
+  Ook maken API's het mogelijk dat apps onderling samenwerken. Bijvoorbeeld, als je een link in WhatsApp opent, wordt de browserapp gestart via een API. Veel apps gebruiken externe API’s om gegevens op te halen of te verzenden. Denk aan:
+  De weerapp die een API gebruikt om weergegevens van een externe server te laden.
+</p>
+      
+<p>Voorbeeld</p>
+<p>UI-actie: Je drukt op een knop in de Camera-app om een foto te maken.</p>
+  <p>API-aanroep: De app gebruikt een camera-API om de hardwarecamera te activeren.</p>
+ <p>Hardwarecommunicatie: Via het besturingssysteem stuurt de API het commando door naar de hardware.</p>
+ <p>Resultaat: De foto wordt genomen, opgeslagen en weergegeven in de app.</p>
+  
+
+
+<footer class="footer"><!--zorgt voor footer-->
             <p>&copy;Maker website: Eveline Nout</p>
             <p>Vlietland College A6A</p>
             <p>eveline.nout@gmail.com</p>
